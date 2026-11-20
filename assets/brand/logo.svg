@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 152 32" width="152" height="32" role="img" aria-label="Erdem Cırık">
+  <g fill="none" stroke="#0A0A0A" stroke-width="2.5" stroke-linecap="butt" stroke-linejoin="miter">
+    <path d="M12.5 9H6.25V23H12.5M6.25 16H11.5"/>
+    <path d="M27 10.64A7 7 0 1 0 27 21.36"/>
+  </g>
+  <circle cx="28.25" cy="16" r="1.9" fill="#FF4F00"/>
+  <text x="42" y="21.6" fill="#0A0A0A" font-family="Geist, 'Geist Fallback', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="-0.34">Erdem Cırık</text>
+</svg>
